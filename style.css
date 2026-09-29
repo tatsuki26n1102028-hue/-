@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: #f9dfc0;
+}
+#top {
+    background-color: #d05f5f;
+    color: #ffffff;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+#about img {
+    width: 280px;
+    height: 200px;
+}
